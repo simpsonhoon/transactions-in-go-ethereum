@@ -1,0 +1,5 @@
+[network]
+url = "wss://ws.test.wemix.com"
+
+[db]
+host = "mongodb://localhost:27017"
